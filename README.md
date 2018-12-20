@@ -1,6 +1,6 @@
-# docker-raspberrypi3-octoprint
+# docker-octoprint
 
-OctoPrint for Raspberry Pi 3
+OctoPrint
 
 Exposes:
 - 5000
@@ -9,5 +9,5 @@ Volumes:
 - /data
 
 ```
- $ docker run --privileged -p 80:5000 -v /data:/data udom/raspberrypi3-octoprint
+ $ docker run --privileged -p 80:5000 -v /data:/data udom/octoprint
 ```
