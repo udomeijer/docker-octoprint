@@ -9,5 +9,5 @@ Volumes:
 - /data
 
 ```
- $ docker run --privileged -p 80:8000 udom/raspberrypi3-octoprint
+ $ docker run --privileged -p 80:5000 -v /data:/data udom/raspberrypi3-octoprint
 ```
