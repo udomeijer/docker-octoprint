@@ -1,6 +1,6 @@
 # docker-raspberrypi3-octoprint
 
-Octoprint for Raspberry Pi 3
+OctoPrint for Raspberry Pi 3
 
 Exposes:
 - 5000
