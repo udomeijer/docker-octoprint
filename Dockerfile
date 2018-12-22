@@ -1,4 +1,4 @@
-FROM python:2
+FROM pypy:2
 
 MAINTAINER Udo Meijer <umeijer@gmail.com>
 
